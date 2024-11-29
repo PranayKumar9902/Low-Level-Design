@@ -22,7 +22,7 @@ Design patterns are proven solutions to common problems that software developers
 
 This repository is organized into different sections, each focusing on a specific type of design pattern. Dive in to learn and implement these patterns in your projects!
 
-## 📖 Book I Have Learned From
+## 📖 Book I Learned From
 
 [Head First Design Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) 
 
