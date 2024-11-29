@@ -24,5 +24,5 @@ This repository is organized into different sections, each focusing on a specifi
 
 ## 📖 Book I Have Learned From
 
-["Head First Design Patterns"](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) 
+[Head First Design Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) 
 
